@@ -1,4 +1,4 @@
- Project Documentation: Bus Schedule Creator
+Bus Schedule Creator
 
 Overview
 
